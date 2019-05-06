@@ -1,0 +1,2 @@
+# SmsSync
+Sms synchronization
